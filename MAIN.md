@@ -8,6 +8,7 @@ Class for the first semester of 2023
 - 자료
   - See & Try: https://github.com/hanyoseob/youtube-cnn-001-pytorch-mnist
   - https://github.com/Kwangkee/Gachon/tree/main/practice/lecture1_DL_overview
+
 - 실습 & 과제
   -
   -
