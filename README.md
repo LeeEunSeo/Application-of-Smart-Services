@@ -10,7 +10,7 @@ Class for the first semester of 2023
   - https://github.com/Kwangkee/Gachon/tree/main/practice/lecture1_DL_overview
 
 - 실습 & 과제
-  - colab -
+  - (colab) https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week1/week1.ipynb
   -
 
 ## week - 2
