@@ -39,10 +39,12 @@ Class for the first semester of 2023
   - https://github.com/Kwangkee/Gachon/blob/main/slides/FLScalize_%EC%96%91%EC%84%B8%EB%AA%A8_20230331.pdf (양세모)
   
 - 실습
-  - FedML - https://github.com/LeeEunSeo/Application-of-Smart-Services/tree/main/week4/FedML
-            https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedML/README.md
-  - FedOps - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps/
-             https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps/README.md
+  - FedML 
+    - https://github.com/LeeEunSeo/Application-of-Smart-Services/tree/main/week4/FedML
+    - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedML/README.md
+  - FedOps 
+    - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps/
+    - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps/README.md
   
 ## week - 5
 #### Remote PPG
