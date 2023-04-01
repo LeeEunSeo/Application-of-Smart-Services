@@ -40,7 +40,7 @@ Class for the first semester of 2023
   
 - 실습
   - FedML - https://github.com/LeeEunSeo/Application-of-Smart-Services/tree/main/week4/FedML
-  - FedOps - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps/
+  - FedOps - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps
   
 ## week - 5
 #### Remote PPG
