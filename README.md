@@ -33,7 +33,7 @@ Class for the first semester of 2023
   - 
 
 ## week - 4
-#### Fedrated Learning - Flower
+#### Fedrated Learning
 - 자료
   - https://github.com/Kwangkee/Gachon/blob/main/slides/FL%20Framework%20Review_%EA%B9%80%EC%A7%84%EC%88%98_20230330.pdf (김진수)
   - https://github.com/Kwangkee/Gachon/blob/main/slides/FLScalize_%EC%96%91%EC%84%B8%EB%AA%A8_20230331.pdf (양세모)
