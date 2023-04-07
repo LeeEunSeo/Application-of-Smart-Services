@@ -27,7 +27,7 @@ Class for the first semester of 2023
 ## week - 3
 #### Web 3.0 - Web 3.0, 블록체인 지갑, Remix IDE
 - 자료
-  - FL with FLOWER , https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL_with_flwr_2023.pdf (김진수)
+  - FL with FLOWER , https://github.com/Kwangkee/Gachon/blob/main/slides/TA-WEB3-%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%89%E1%85%AE.pdf (고은수)
 
 - 실습
   - 
