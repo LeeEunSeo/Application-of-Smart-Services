@@ -33,7 +33,7 @@ Class for the first semester of 2023
   - 
 
 ## week - 4
-#### Fedrated Learning
+#### Fedrated Learning - FedML, FedOPS(with Docker)
 - 자료
   - https://github.com/Kwangkee/Gachon/blob/main/slides/FL%20Framework%20Review_%EA%B9%80%EC%A7%84%EC%88%98_20230330.pdf (김진수)
   - https://github.com/Kwangkee/Gachon/blob/main/slides/FLScalize_%EC%96%91%EC%84%B8%EB%AA%A8_20230331.pdf (양세모)
@@ -43,9 +43,9 @@ Class for the first semester of 2023
   - FedOps - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps
   
 ## week - 5
-#### Remote PPG
+#### Remote PPG (혈류를 관찰하는 방법)
 - 자료  
-  - https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf (김대열)
+  - https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_OVerview_2023.pptx(김대열)
   - Open Source, Implement Deep Learning based Rppg Model & PPG 2 ABP using pytorch, https://github.com/remotebiosensing/rppg
   
 - 실습
