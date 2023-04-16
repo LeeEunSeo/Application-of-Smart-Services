@@ -30,7 +30,7 @@ Class for the first semester of 2023
   - https://github.com/Kwangkee/Gachon/blob/main/slides/TA-WEB3-%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%89%E1%85%AE.pdf (고은수)
 
 - 실습
-  - 
+  - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week3/README.md
 
 ## week - 4
 #### Fedrated Learning - FedML, FedOPS(with Docker)
@@ -41,6 +41,7 @@ Class for the first semester of 2023
 - 실습
   - FedML - https://github.com/LeeEunSeo/Application-of-Smart-Services/tree/main/week4/FedML
   - FedOps - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps
+  - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/README.md
   
 ## week - 5
 #### Remote PPG (혈류를 관찰하는 방법)
