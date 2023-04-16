@@ -8,6 +8,9 @@
   **Few shot learning**이란, *Few*한 데이터도 잘 분류할 수 있도록 하는 방법이다.
   하지만, *Few*한 데이터로 학습하는 것은 아니다. (적은 양의 레이블 데이터)
   
+  
+  <img src="./img/General overview of a Few-Shot Learning framework.png">
+  
   - 기존의 지도학습(Supervised Learning) :
     Training set을 학습하여 학습한 클래스 내의 테스트를 한다.    
   - Few-Shot Learning은? :
@@ -18,7 +21,7 @@
   
   Few shot learning의 기본 학습 방법은 **유사성을 학습**하는 것
   
-  <img src="./img/General overview of a Few-Shot Learning framework.png">
+  <img src="./img/Overview of how a Few-Shot model makes a prediction.png">  
   
   1. 모델 아키텍처 선택
 
@@ -39,8 +42,7 @@
     
       모델을 평가하고 결과를 분석합니다. Few-shot learning에서는 일반적으로 모델의 성능이 중요합니다. 
       모델의 성능이 높을수록, 적은 수의 레이블 데이터만으로도 새로운 클래스의 인스턴스를 인식할 수 있습니다.
-      
-  <img src="./img/Overview of how a Few-Shot model makes a prediction.png">    
+        
 
   [Meta Learning 에서의 Few-Shot Learning]
   
