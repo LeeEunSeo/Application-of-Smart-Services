@@ -60,3 +60,15 @@
       **목표 함수 (objective function)을 최적화**하여 새로운 작업을 수행하기 위한 최적화 알고리즘을 학습하는 방법이다. 
       이를 위해 Reptile 알고리즘이 사용되며, 이 알고리즘은 몇 번의 optimization step을 사용하여 모델을 초기화하고, 
       그 다음 몇 번의 작은 gradient step을 사용하여 모델을 새로운 작업에 적응시킵니다.
+      
+### Video Frame Interpolation      
+
+### MetaVFI
+
+### Super Resolution
+
+### Few-Shot Image to Image Translation
+ 
+### Few-Shot Image Generation
+
+### etc.
