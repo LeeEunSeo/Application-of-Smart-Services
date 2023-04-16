@@ -3,7 +3,6 @@
 
   [Motivation]
   
-  
   Few shot learning이란, *Few*한 데이터도 잘 분류할 수 있도록 하는 방법이다.
   하지만, *Few*한 데이터로 학습하는 것은 아니다.
   
@@ -16,4 +15,7 @@
   [학습방법]
   
   
+  Meta Learning 에서의 Few-Shot Learning
   
+ 
+  일단 여기서 Meta Learning 이란? 
