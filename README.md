@@ -71,7 +71,7 @@ Class for the first semester of 2023
 - 실습
 
 ##  Week-9 (5/5)
-*휴강*
+<span style="color:red">휴강</span>
 
 ##  Week-10 (5/12)
 #### 의료 Dataset
