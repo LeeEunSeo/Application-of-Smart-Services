@@ -3,7 +3,7 @@ Class for the first semester of 2023
 
 
 
-## week - 1
+## week - 1 (3/10)
 #### Deep Learning - MNIST
 - 자료
   - See & Try: https://github.com/hanyoseob/youtube-cnn-001-pytorch-mnist
@@ -14,7 +14,7 @@ Class for the first semester of 2023
   - (colab) https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week1/week1.ipynb
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week1/README.md
 
-## week - 2
+## week - 2 (3/17)
 #### Fedrated Learning - Flower
 - 자료
   - FL with FLOWER , https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL_with_flwr_2023.pdf (김진수)
@@ -24,7 +24,7 @@ Class for the first semester of 2023
   - FedProx - https://github.com/LeeEunSeo/Application-of-Smart-Services/tree/main/week2/flower/baselines/flwr_baselines/publications/fedprox_mnist
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week2/README.md
 
-## week - 3
+## week - 3 (3/24)
 #### Web 3.0 - Web 3.0, 블록체인 지갑, Remix IDE
 - 자료
   - https://github.com/Kwangkee/Gachon/blob/main/slides/TA-WEB3-%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%89%E1%85%AE.pdf (고은수)
@@ -32,7 +32,7 @@ Class for the first semester of 2023
 - 실습
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week3/README.md
 
-## week - 4
+## week - 4 (3/31)
 #### Fedrated Learning - FedML, FedOPS(with Docker)
 - 자료
   - https://github.com/Kwangkee/Gachon/blob/main/slides/FL%20Framework%20Review_%EA%B9%80%EC%A7%84%EC%88%98_20230330.pdf (김진수)
@@ -43,7 +43,7 @@ Class for the first semester of 2023
   - FedOps - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/FedOps
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week4/README.md
   
-## week - 5
+## week - 5 (4/7)
 #### Remote PPG (혈류를 관찰하는 방법)
 - 자료  
   - https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_OVerview_2023.pptx(김대열)
@@ -51,26 +51,29 @@ Class for the first semester of 2023
   
 - 실습
 
-## week - 6
+## week - 6 (4/14)
 #### Meta Learning
 - 자료  
   - 실세계 비전 문제해결을 위한 메타학습 (백성용 교수, 한양대), https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
 - 공부
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week6/README.md
   
-##  Week-7
+##  Week-7 (4/21)
 #### Blockchain - BCFL Simulator
 - 자료 
 - 실습
 
-##  Week-8
+##  Week-8 (4/28)
 #### 인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
 - 자료 
   - 원격임상시험, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
   
 - 실습
 
-##  Week-9
+##  Week-9 (5/5)
+*휴강*
+
+##  Week-10 (5/12)
 #### 의료 Dataset
 - 자료 
   - DeepCars Dataset (양세모)
