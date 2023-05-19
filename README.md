@@ -79,5 +79,11 @@ Class for the first semester of 2023
   - DeepCars Dataset (양세모)
   - MIMIC (채종의)
   
-- 실습
+- 발표
+  - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/project/0519.pptx  
 
+##  Week-11 (5/19)
+#### 프로젝트 발표
+
+##  Week-12 (5/26)
+#### 프로젝트 발표
