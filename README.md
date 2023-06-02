@@ -28,6 +28,7 @@ Class for the first semester of 2023
 #### Web 3.0 - Web 3.0, 블록체인 지갑, Remix IDE
 - 자료
   - https://github.com/Kwangkee/Gachon/blob/main/slides/TA-WEB3-%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%89%E1%85%AE.pdf (고은수)
+  - https://github.com/Kwangkee/Gachon/tree/main/practice/Web3
 
 - 실습
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week3/README.md
@@ -59,9 +60,7 @@ Class for the first semester of 2023
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week6/README.md
   
 ##  Week-7 (4/21)
-#### Blockchain - BCFL Simulator
-- 자료 
-- 실습
+#### ?
 
 ##  Week-8 (4/28)
 #### 인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
@@ -79,11 +78,23 @@ Class for the first semester of 2023
   - DeepCars Dataset (양세모)
   - MIMIC (채종의)
   
-- 발표
+- 발표자료
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/project/0519.pptx  
 
 ##  Week-11 (5/19)
 #### 프로젝트 발표
 
 ##  Week-12 (5/26)
-#### 프로젝트 발표
+#### Blockchain - BCFL Simulator
+- 자료 
+  - https://github.com/Kwangkee/Gachon/tree/main/practice/BCFL
+- 실습
+
+##  Week-13 (6/2)
+#### 동형암호
+- 자료
+  - https://github.com/Kwangkee/Gachon/blob/main/slides/%ED%81%AC%EB%A6%BD%ED%86%A0%EB%9E%A9_%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8_2306_%EA%B3%B5%EC%9C%A0_r1.pdf (신준범 박사님)
+
+##  Week-14 (6/09)
+#### 최종 프로젝트 발표
+- 자료 
