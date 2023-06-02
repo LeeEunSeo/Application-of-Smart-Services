@@ -47,10 +47,11 @@ Class for the first semester of 2023
 ## week - 5 (4/7)
 #### Remote PPG (혈류를 관찰하는 방법)
 - 자료  
-  - https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_OVerview_2023.pptx(김대열)
+  - https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_OVerview_2023.pptx (김대열)
   - Open Source, Implement Deep Learning based Rppg Model & PPG 2 ABP using pytorch, https://github.com/remotebiosensing/rppg
   
-- 실습
+- 공부
+  - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week5/README.md
 
 ## week - 6 (4/14)
 #### Meta Learning
@@ -60,34 +61,49 @@ Class for the first semester of 2023
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week6/README.md
   
 ##  Week-7 (4/21)
-#### ?
-
+#### 의료서비스 (의료 Dataset)
+- 자료 
+  - DeepCars Dataset https://github.com/Kwangkee/Gachon/blob/main/slides/%EC%9D%98%EB%A3%8C%EC%84%9C%EB%B9%84%EC%8A%A4%26%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5_%EC%96%91%EC%84%B8%EB%AA%A8_20230421.pptx (양세모)
+  - Cuffless BP (채종의)
+  
 ##  Week-8 (4/28)
 #### 인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
 - 자료 
-  - 원격임상시험, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
+  - [사례 소개] 연합학습 기반 신약개발 가속화 프로젝트(K-MELLODDY) 상세 기획 연구, https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1131448
+  - [사례 소개] Subtra, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#Substra
+  - [사례 소개] Fed-BioMed, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#fed-biomed
+  - [사례 소개] FL@Line, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#tech-verse-2022
+  - [사례 소개] Samsung Health Stack, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#samsung-health-stack
+  - [사례 소개] MIMIC, 의료 데이터 리뷰, 고려사항, Cuffless BP 기술 소개, cNIBP 연구 소개, https://github.com/Kwangkee/Gachon/blob/main/slides/VitalSignalDataset%26Application.pptx
   
-- 실습
+- 공부
+  - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week8/README.md
 
 ##  Week-9 (5/5)
 <span style="color:red">휴강</span> 
 
 ##  Week-10 (5/12)
-#### 의료 Dataset
+#### FL Personalization : MAML
 - 자료 
-  - DeepCars Dataset (양세모)
-  - MIMIC (채종의)
+  - https://github.com/Kwangkee/Gachon/blob/main/slides/MetaLearning%26FL_%EA%B9%80%EC%A7%84%EC%88%98_20230512.pptx (김진수)
+  - 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (Adaptive Federated Learning in Dynamic Heterogeneous Environment), https://github.com/Kwangkee/FL/blob/main/AFL.md
   
 - 발표자료
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/project/0519.pptx  
 
 ##  Week-11 (5/19)
-#### 프로젝트 발표
+#### MetaPhys, 프로젝트 발
+- 자료 
+  - MetaPhys 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/MetaPhys_Review.pptx
+  - rPPG Open Source https://github.com/remotebiosensing/rppg
+  - Samsung 스마트모니터, https://www.samsung.com/sec/monitors/package-smart-ls32cm703uk-e-d2c/LS32CM703UK-E/
 
 ##  Week-12 (5/26)
 #### Blockchain - BCFL Simulator
 - 자료 
   - https://github.com/Kwangkee/Gachon/tree/main/practice/BCFL
+  - 원격임상시험, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
+  
 - 실습
 
 ##  Week-13 (6/2)
