@@ -105,11 +105,15 @@ Class for the first semester of 2023
   - 원격임상시험, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
   
 - 실습
+  - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week12/README.md
 
 ##  Week-13 (6/2)
 #### 동형암호
 - 자료
   - https://github.com/Kwangkee/Gachon/blob/main/slides/%ED%81%AC%EB%A6%BD%ED%86%A0%EB%9E%A9_%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8_2306_%EA%B3%B5%EC%9C%A0_r1.pdf (신준범 박사님)
+
+- 공부
+  - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/week13/README.md
 
 ##  Week-14 (6/09)
 #### 최종 프로젝트 발표
