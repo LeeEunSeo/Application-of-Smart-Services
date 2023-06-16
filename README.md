@@ -92,7 +92,7 @@ Class for the first semester of 2023
   - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/project/0519.pptx  
 
 ##  Week-11 (5/19)
-#### MetaPhys, 프로젝트 발
+#### MetaPhys, 프로젝트 발표
 - 자료 
   - MetaPhys 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/MetaPhys_Review.pptx
   - rPPG Open Source https://github.com/remotebiosensing/rppg
@@ -114,3 +114,4 @@ Class for the first semester of 2023
 ##  Week-14 (6/09)
 #### 최종 프로젝트 발표
 - 자료 
+  - https://github.com/LeeEunSeo/Application-of-Smart-Services/blob/main/project/0616%20%EB%B0%9C%ED%91%9C.pptx
